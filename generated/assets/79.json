@@ -1,0 +1,32 @@
+{
+    "name": "The Potion Shop #79",
+    "description": "The Potion Shop: 10,000 unique, cool and diverse Potions living on the Blockchain.",
+    "edition": 79,
+    "date": 1632740763293,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Cork",
+            "value": "Emerald"
+        },
+        {
+            "trait_type": "Potion",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Floating Item",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "Trinket",
+            "value": "Cobweb"
+        },
+        {
+            "trait_type": "Sparkle",
+            "value": "White"
+        }
+    ]
+}

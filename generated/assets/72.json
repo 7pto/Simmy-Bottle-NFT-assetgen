@@ -1,0 +1,28 @@
+{
+    "name": "The Potion Shop #72",
+    "description": "The Potion Shop: 10,000 unique, cool and diverse Potions living on the Blockchain.",
+    "edition": 72,
+    "date": 1632740740477,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Cork",
+            "value": "Finger"
+        },
+        {
+            "trait_type": "Potion",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Floating Item",
+            "value": "Sword"
+        },
+        {
+            "trait_type": "Trinket",
+            "value": "Cross"
+        }
+    ]
+}

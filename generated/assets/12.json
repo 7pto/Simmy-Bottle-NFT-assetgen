@@ -1,0 +1,36 @@
+{
+    "name": "The Potion Shop #12",
+    "description": "The Potion Shop: 10,000 unique, cool and diverse Potions living on the Blockchain.",
+    "edition": 12,
+    "date": 1632740542691,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Power",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Cork",
+            "value": "Devil"
+        },
+        {
+            "trait_type": "Glow",
+            "value": "White"
+        },
+        {
+            "trait_type": "Potion",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Floating Item",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "Trinket",
+            "value": "I love smoke"
+        }
+    ]
+}

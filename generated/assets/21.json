@@ -1,0 +1,32 @@
+{
+    "name": "The Potion Shop #21",
+    "description": "The Potion Shop: 10,000 unique, cool and diverse Potions living on the Blockchain.",
+    "edition": 21,
+    "date": 1632740571972,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Cork",
+            "value": "Key"
+        },
+        {
+            "trait_type": "Glow",
+            "value": "White"
+        },
+        {
+            "trait_type": "Potion",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Floating Item",
+            "value": "Bubbles"
+        },
+        {
+            "trait_type": "Trinket",
+            "value": "Angel Halo"
+        }
+    ]
+}
