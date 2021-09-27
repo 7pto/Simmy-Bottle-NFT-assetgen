@@ -1,0 +1,36 @@
+{
+    "name": "The Potion Shop #44",
+    "description": "The Potion Shop: 10,000 unique, cool and diverse Potions living on the Blockchain.",
+    "edition": 44,
+    "date": 1632740651443,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Power",
+            "value": "Shield"
+        },
+        {
+            "trait_type": "Cork",
+            "value": "Cross"
+        },
+        {
+            "trait_type": "Glow",
+            "value": "White"
+        },
+        {
+            "trait_type": "Potion",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Floating Item",
+            "value": "Bats"
+        },
+        {
+            "trait_type": "Trinket",
+            "value": "Rocket"
+        }
+    ]
+}
