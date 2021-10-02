@@ -10,12 +10,22 @@ import { Image } from "./src/draw";
             return;
         }
 
+        let startAt = 0;
+        let stopAt = 1000; 
+
         const start = performance.now();
+
         for(const _ in _dnaListJSON) {
+            if(startAt >= stopAt) {
+                break;
+            }
+
             const _dnaLayerObjectList =  constructLayerToDna(_dnaListJSON[_]);
             
             const create = new Image(_dnaLayerObjectList);
             await create.generate(+_);
+            startAt++;
+
         }
 
         const stop = performance.now();

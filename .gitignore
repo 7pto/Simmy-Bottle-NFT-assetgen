@@ -103,10 +103,10 @@ dist
 # TernJS port file
 .tern-port
 
-layers
+# layers
 
 build
 
-*.png
+# *.png
 
-*.svg
+# *.svg
