@@ -77,7 +77,7 @@ class Image {
 
       let tempMetadata = {
         name: `The Potion Shop #${_edition}`,
-        description: `The Potion Shop: 10,000 unique, cool and diverse Potions living on the Blockchain.`,
+        description: `A collection of 10,000 unique, magical potions on the ethereum blockchain.`,
         edition: _edition,
         date: dateTime,
         attributes: _attributesList,

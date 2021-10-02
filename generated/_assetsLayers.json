@@ -347,7 +347,7 @@
     },
     {
         "id": 5,
-        "name": "Floating Item",
+        "name": "Item",
         "required": true,
         "path": "",
         "elements": [

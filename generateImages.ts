@@ -10,15 +10,12 @@ import { Image } from "./src/draw";
             return;
         }
 
-        let startAt = 0;
-        let stopAt = 1000; 
+        let startAt = 10;
+        let stopAt = 50; 
 
         const start = performance.now();
 
-        for(const _ in _dnaListJSON) {
-            if(startAt >= stopAt) {
-                break;
-            }
+        for(let _ = startAt; _ < stopAt; _++) {
 
             const _dnaLayerObjectList =  constructLayerToDna(_dnaListJSON[_]);
             
