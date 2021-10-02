@@ -36,13 +36,10 @@ const createDna = () => {
         let layerIds = [];
 
         /* layer is optional and probability greater than 50% */
-        if(!layer.required && random(2) === 1) {
+        if(!layer.required) {
             /* Layer not included */
             layerIds.push(-1);
-        }
 
-        /* Select layers based on rarity and color */
-        while(!layerIds.length) {
             let randomNum = random(100);
 
             layer.elements.forEach(element => {
@@ -50,7 +47,21 @@ const createDna = () => {
                     layerIds.push(element.id);
                 }
             });
+            
+        } else {
+
+            /* Select layers based on rarity and color */
+            while(!layerIds.length) {
+                let randomNum = random(100);
+    
+                layer.elements.forEach(element => {
+                    if(randomNum >= element.rarityRating) {
+                        layerIds.push(element.id);
+                    }
+                });
+            }
         }
+
         
         /* Select one layer among the selected layers */
         dna.push(layerIds[random(layerIds.length)]);

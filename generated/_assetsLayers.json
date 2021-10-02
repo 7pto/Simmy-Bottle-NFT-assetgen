@@ -15,31 +15,31 @@
                 "id": 1,
                 "name": "Brown",
                 "filename": "./layers/Background/Brown.png",
-                "rarityRating": 0
+                "rarityRating": 4
             },
             {
                 "id": 2,
                 "name": "Green",
                 "filename": "./layers/Background/Green.png",
-                "rarityRating": 0
+                "rarityRating": 4
             },
             {
                 "id": 3,
                 "name": "Orange",
                 "filename": "./layers/Background/Orange.png",
-                "rarityRating": 0
+                "rarityRating": 4
             },
             {
                 "id": 4,
                 "name": "Pink",
                 "filename": "./layers/Background/Pink.png",
-                "rarityRating": 0
+                "rarityRating": 4
             },
             {
                 "id": 5,
                 "name": "Purple",
                 "filename": "./layers/Background/Purple.png",
-                "rarityRating": 0
+                "rarityRating": 4
             },
             {
                 "id": 6,
@@ -59,49 +59,49 @@
                 "id": 0,
                 "name": "Black Heart",
                 "filename": "./layers/Power/1x/Black Heart.png",
-                "rarityRating": 0
+                "rarityRating": 99
             },
             {
                 "id": 1,
                 "name": "Damage",
                 "filename": "./layers/Power/1x/Damage.png",
-                "rarityRating": 0
+                "rarityRating": 97
             },
             {
                 "id": 2,
                 "name": "Fire",
                 "filename": "./layers/Power/1x/Fire.png",
-                "rarityRating": 0
+                "rarityRating": 97
             },
             {
                 "id": 3,
                 "name": "Healing",
                 "filename": "./layers/Power/1x/Healing.png",
-                "rarityRating": 0
+                "rarityRating": 97
             },
             {
                 "id": 4,
                 "name": "Heart",
                 "filename": "./layers/Power/1x/Heart.png",
-                "rarityRating": 0
+                "rarityRating": 98
             },
             {
                 "id": 5,
                 "name": "Lightning",
                 "filename": "./layers/Power/1x/Lightning.png",
-                "rarityRating": 0
+                "rarityRating": 97
             },
             {
                 "id": 6,
                 "name": "Powerup",
                 "filename": "./layers/Power/1x/Powerup.png",
-                "rarityRating": 0
+                "rarityRating": 97
             },
             {
                 "id": 7,
                 "name": "Shield",
                 "filename": "./layers/Power/1x/Shield.png",
-                "rarityRating": 0
+                "rarityRating": 97
             }
         ]
     },
@@ -115,139 +115,139 @@
                 "id": 0,
                 "name": "Angel",
                 "filename": "./layers/Cork/1x/Angel.png",
-                "rarityRating": 0
+                "rarityRating": 85
             },
             {
                 "id": 1,
                 "name": "Chad",
                 "filename": "./layers/Cork/1x/Chad.png",
-                "rarityRating": 0
+                "rarityRating": 85
             },
             {
                 "id": 2,
                 "name": "Cigarette",
                 "filename": "./layers/Cork/1x/Cigarette.png",
-                "rarityRating": 0
+                "rarityRating": 80
             },
             {
                 "id": 3,
                 "name": "Cross",
                 "filename": "./layers/Cork/1x/Cross.png",
-                "rarityRating": 0
+                "rarityRating": 75
             },
             {
                 "id": 4,
                 "name": "Devil",
                 "filename": "./layers/Cork/1x/Devil.png",
-                "rarityRating": 0
+                "rarityRating": 75
             },
             {
                 "id": 5,
                 "name": "Diamond",
                 "filename": "./layers/Cork/1x/Diamond.png",
-                "rarityRating": 0
+                "rarityRating": 95
             },
             {
                 "id": 6,
                 "name": "Doge",
                 "filename": "./layers/Cork/1x/Doge.png",
-                "rarityRating": 0
+                "rarityRating": 99
             },
             {
                 "id": 7,
                 "name": "Emerald",
                 "filename": "./layers/Cork/1x/Emerald.png",
-                "rarityRating": 0
+                "rarityRating": 85
             },
             {
                 "id": 8,
                 "name": "Ethereum",
                 "filename": "./layers/Cork/1x/Ethereum.png",
-                "rarityRating": 0
+                "rarityRating": 90
             },
             {
                 "id": 9,
                 "name": "Finger",
                 "filename": "./layers/Cork/1x/Finger.png",
-                "rarityRating": 0
+                "rarityRating": 80
             },
             {
                 "id": 10,
                 "name": "Flower",
                 "filename": "./layers/Cork/1x/Flower.png",
-                "rarityRating": 0
+                "rarityRating": 65
             },
             {
                 "id": 11,
                 "name": "Gold",
                 "filename": "./layers/Cork/1x/Gold.png",
-                "rarityRating": 0
+                "rarityRating": 75
             },
             {
                 "id": 12,
                 "name": "Ice",
                 "filename": "./layers/Cork/1x/Ice.png",
-                "rarityRating": 0
+                "rarityRating": 80
             },
             {
                 "id": 13,
                 "name": "Key",
                 "filename": "./layers/Cork/1x/Key.png",
-                "rarityRating": 0
+                "rarityRating": 70
             },
             {
                 "id": 14,
                 "name": "Metal",
                 "filename": "./layers/Cork/1x/Metal.png",
-                "rarityRating": 0
+                "rarityRating": 62
             },
             {
                 "id": 15,
                 "name": "Mushroom",
                 "filename": "./layers/Cork/1x/Mushroom.png",
-                "rarityRating": 0
+                "rarityRating": 75
             },
             {
                 "id": 16,
                 "name": "Rocket",
                 "filename": "./layers/Cork/1x/Rocket.png",
-                "rarityRating": 0
+                "rarityRating": 70
             },
             {
                 "id": 17,
                 "name": "Ruby",
                 "filename": "./layers/Cork/1x/Ruby.png",
-                "rarityRating": 0
+                "rarityRating": 95
             },
             {
                 "id": 18,
                 "name": "Skull",
                 "filename": "./layers/Cork/1x/Skull.png",
-                "rarityRating": 0
+                "rarityRating": 70
             },
             {
                 "id": 19,
                 "name": "Snake",
                 "filename": "./layers/Cork/1x/Snake.png",
-                "rarityRating": 0
+                "rarityRating": 85
             },
             {
                 "id": 20,
                 "name": "Whale",
                 "filename": "./layers/Cork/1x/Whale.png",
-                "rarityRating": 0
+                "rarityRating": 80
             },
             {
                 "id": 21,
                 "name": "Wizard Hat",
                 "filename": "./layers/Cork/1x/Wizard Hat.png",
-                "rarityRating": 0
+                "rarityRating": 75
             },
             {
                 "id": 22,
                 "name": "Wood",
                 "filename": "./layers/Cork/1x/Wood.png",
-                "rarityRating": 0
+                "rarityRating": 63
             }
         ]
     },
@@ -261,7 +261,7 @@
                 "id": 0,
                 "name": "White",
                 "filename": "./layers/Glow/1x/White.png",
-                "rarityRating": 0
+                "rarityRating": 80
             }
         ]
     },
@@ -275,73 +275,73 @@
                 "id": 0,
                 "name": "Black",
                 "filename": "./layers/Potion/1x/Black.png",
-                "rarityRating": 0
+                "rarityRating": 95
             },
             {
                 "id": 1,
                 "name": "Blue",
                 "filename": "./layers/Potion/1x/Blue.png",
-                "rarityRating": 0
+                "rarityRating": 60
             },
             {
                 "id": 2,
                 "name": "Gold",
                 "filename": "./layers/Potion/1x/Gold.png",
-                "rarityRating": 0
+                "rarityRating": 96
             },
             {
                 "id": 3,
                 "name": "Green",
                 "filename": "./layers/Potion/1x/Green.png",
-                "rarityRating": 0
+                "rarityRating": 60
             },
             {
                 "id": 4,
                 "name": "Orange",
                 "filename": "./layers/Potion/1x/Orange.png",
-                "rarityRating": 0
+                "rarityRating": 60
             },
             {
                 "id": 5,
                 "name": "Pink",
                 "filename": "./layers/Potion/1x/Pink.png",
-                "rarityRating": 0
+                "rarityRating": 60
             },
             {
                 "id": 6,
                 "name": "Purple",
                 "filename": "./layers/Potion/1x/Purple.png",
-                "rarityRating": 0
+                "rarityRating": 60
             },
             {
                 "id": 7,
                 "name": "Rainbow",
                 "filename": "./layers/Potion/1x/Rainbow.png",
-                "rarityRating": 0
+                "rarityRating": 99
             },
             {
                 "id": 8,
                 "name": "Red",
                 "filename": "./layers/Potion/1x/Red.png",
-                "rarityRating": 0
+                "rarityRating": 60
             },
             {
                 "id": 9,
                 "name": "Silver",
                 "filename": "./layers/Potion/1x/Silver.png",
-                "rarityRating": 0
+                "rarityRating": 88
             },
             {
                 "id": 10,
                 "name": "White",
                 "filename": "./layers/Potion/1x/White.png",
-                "rarityRating": 0
+                "rarityRating": 65
             },
             {
                 "id": 11,
                 "name": "Yellow",
                 "filename": "./layers/Potion/1x/Yellow.png",
-                "rarityRating": 0
+                "rarityRating": 60
             }
         ]
     },
@@ -355,314 +355,138 @@
                 "id": 0,
                 "name": "Balloon",
                 "filename": "./layers/Floating Item/1x/Balloon.png",
-                "rarityRating": 0
+                "rarityRating": 40
             },
             {
                 "id": 1,
                 "name": "Bats",
                 "filename": "./layers/Floating Item/1x/Bats.png",
-                "rarityRating": 0
+                "rarityRating": 40
             },
             {
                 "id": 2,
                 "name": "Bone",
                 "filename": "./layers/Floating Item/1x/Bone.png",
-                "rarityRating": 0
+                "rarityRating": 40
             },
             {
                 "id": 3,
                 "name": "Bubbles",
                 "filename": "./layers/Floating Item/1x/Bubbles.png",
-                "rarityRating": 0
+                "rarityRating": 50
             },
             {
                 "id": 4,
                 "name": "Cash",
                 "filename": "./layers/Floating Item/1x/Cash.png",
-                "rarityRating": 0
+                "rarityRating": 70
             },
             {
                 "id": 5,
-                "name": "Cobweb_",
+                "name": "Cobweb",
                 "filename": "./layers/Floating Item/1x/Cobweb_.png",
-                "rarityRating": 0
+                "rarityRating": 30
             },
             {
                 "id": 6,
                 "name": "Doge",
                 "filename": "./layers/Floating Item/1x/Doge.png",
-                "rarityRating": 0
+                "rarityRating": 97
             },
             {
                 "id": 7,
                 "name": "Eye",
                 "filename": "./layers/Floating Item/1x/Eye.png",
-                "rarityRating": 0
+                "rarityRating": 30
             },
             {
                 "id": 8,
                 "name": "Feather",
                 "filename": "./layers/Floating Item/1x/Feather.png",
-                "rarityRating": 0
+                "rarityRating": 40
             },
             {
                 "id": 9,
                 "name": "Fish",
                 "filename": "./layers/Floating Item/1x/Fish.png",
-                "rarityRating": 0
+                "rarityRating": 50
             },
             {
                 "id": 10,
                 "name": "Frog",
                 "filename": "./layers/Floating Item/1x/Frog.png",
-                "rarityRating": 0
+                "rarityRating": 40
             },
             {
                 "id": 11,
                 "name": "Heart",
                 "filename": "./layers/Floating Item/1x/Heart.png",
-                "rarityRating": 0
+                "rarityRating": 50
             },
             {
                 "id": 12,
                 "name": "Ice",
                 "filename": "./layers/Floating Item/1x/Ice.png",
-                "rarityRating": 0
+                "rarityRating": 40
             },
             {
                 "id": 13,
                 "name": "Magnet",
                 "filename": "./layers/Floating Item/1x/Magnet.png",
-                "rarityRating": 0
+                "rarityRating": 40
             },
             {
                 "id": 14,
                 "name": "Money Bag",
                 "filename": "./layers/Floating Item/1x/Money Bag.png",
-                "rarityRating": 0
+                "rarityRating": 90
             },
             {
                 "id": 15,
                 "name": "Mushrooms",
                 "filename": "./layers/Floating Item/1x/Mushrooms.png",
-                "rarityRating": 0
+                "rarityRating": 50
             },
             {
                 "id": 16,
                 "name": "Octopus",
                 "filename": "./layers/Floating Item/1x/Octopus.png",
-                "rarityRating": 0
+                "rarityRating": 30
             },
             {
                 "id": 17,
                 "name": "Rocks",
                 "filename": "./layers/Floating Item/1x/Rocks.png",
-                "rarityRating": 0
+                "rarityRating": 50
             },
             {
                 "id": 18,
                 "name": "Shark",
                 "filename": "./layers/Floating Item/1x/Shark.png",
-                "rarityRating": 0
+                "rarityRating": 40
             },
             {
                 "id": 19,
                 "name": "Skull",
                 "filename": "./layers/Floating Item/1x/Skull.png",
-                "rarityRating": 0
+                "rarityRating": 93
             },
             {
                 "id": 20,
                 "name": "Sword",
                 "filename": "./layers/Floating Item/1x/Sword.png",
-                "rarityRating": 0
+                "rarityRating": 90
             },
             {
                 "id": 21,
-                "name": "Tree_",
+                "name": "Tree",
                 "filename": "./layers/Floating Item/1x/Tree_.png",
-                "rarityRating": 0
+                "rarityRating": 80
             }
         ]
     },
     {
         "id": 6,
-        "name": "Trinket",
-        "required": true,
-        "path": "",
-        "elements": [
-            {
-                "id": 0,
-                "name": "Amulet",
-                "filename": "./layers/Trinket/1x/Amulet.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 1,
-                "name": "Angel Halo",
-                "filename": "./layers/Trinket/1x/Angel Halo.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 2,
-                "name": "Chad",
-                "filename": "./layers/Trinket/1x/Chad.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 3,
-                "name": "Cobweb",
-                "filename": "./layers/Trinket/1x/Cobweb.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 4,
-                "name": "Cross",
-                "filename": "./layers/Trinket/1x/Cross.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 5,
-                "name": "Devil Horns",
-                "filename": "./layers/Trinket/1x/Devil Horns.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 6,
-                "name": "Diamond",
-                "filename": "./layers/Trinket/1x/Diamond.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 7,
-                "name": "Dog Tag",
-                "filename": "./layers/Trinket/1x/Dog Tag.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 8,
-                "name": "Doge",
-                "filename": "./layers/Trinket/1x/Doge.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 9,
-                "name": "Emerald",
-                "filename": "./layers/Trinket/1x/Emerald.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 10,
-                "name": "Flower",
-                "filename": "./layers/Trinket/1x/Flower.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 11,
-                "name": "Gold",
-                "filename": "./layers/Trinket/1x/Gold.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 12,
-                "name": "Hand",
-                "filename": "./layers/Trinket/1x/Hand.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 13,
-                "name": "I love smoke",
-                "filename": "./layers/Trinket/1x/I love smoke.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 14,
-                "name": "Ice",
-                "filename": "./layers/Trinket/1x/Ice.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 15,
-                "name": "Key",
-                "filename": "./layers/Trinket/1x/Key.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 16,
-                "name": "Licorice",
-                "filename": "./layers/Trinket/1x/Licorice.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 17,
-                "name": "Mushroom",
-                "filename": "./layers/Trinket/1x/Mushroom.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 18,
-                "name": "Over Whale Ming",
-                "filename": "./layers/Trinket/1x/Over Whale Ming.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 19,
-                "name": "Rocket",
-                "filename": "./layers/Trinket/1x/Rocket.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 20,
-                "name": "Rope",
-                "filename": "./layers/Trinket/1x/Rope.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 21,
-                "name": "Ruby",
-                "filename": "./layers/Trinket/1x/Ruby.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 22,
-                "name": "Shoe Lace",
-                "filename": "./layers/Trinket/1x/Shoe Lace.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 23,
-                "name": "Skull",
-                "filename": "./layers/Trinket/1x/Skull.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 24,
-                "name": "Snake",
-                "filename": "./layers/Trinket/1x/Snake.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 25,
-                "name": "Stars",
-                "filename": "./layers/Trinket/1x/Stars.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 26,
-                "name": "Vine",
-                "filename": "./layers/Trinket/1x/Vine.png",
-                "rarityRating": 0
-            },
-            {
-                "id": 27,
-                "name": "Wood",
-                "filename": "./layers/Trinket/1x/Wood.png",
-                "rarityRating": 0
-            }
-        ]
-    },
-    {
-        "id": 7,
         "name": "Sparkle",
         "required": false,
         "path": "",
@@ -671,7 +495,183 @@
                 "id": 0,
                 "name": "White",
                 "filename": "./layers/Sparkle/1x/White.png",
-                "rarityRating": 0
+                "rarityRating": 90
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Trinket",
+        "required": true,
+        "path": "",
+        "elements": [
+            {
+                "id": 0,
+                "name": "Amulet",
+                "filename": "./layers/Trinket/1x/Amulet.png",
+                "rarityRating": 60
+            },
+            {
+                "id": 1,
+                "name": "Angel Halo",
+                "filename": "./layers/Trinket/1x/Angel Halo.png",
+                "rarityRating": 80
+            },
+            {
+                "id": 2,
+                "name": "Chad",
+                "filename": "./layers/Trinket/1x/Chad.png",
+                "rarityRating": 70
+            },
+            {
+                "id": 3,
+                "name": "Cobweb",
+                "filename": "./layers/Trinket/1x/Cobweb.png",
+                "rarityRating": 60
+            },
+            {
+                "id": 4,
+                "name": "Cross",
+                "filename": "./layers/Trinket/1x/Cross.png",
+                "rarityRating": 80
+            },
+            {
+                "id": 5,
+                "name": "Devil Horns",
+                "filename": "./layers/Trinket/1x/Devil Horns.png",
+                "rarityRating": 90
+            },
+            {
+                "id": 6,
+                "name": "Diamond",
+                "filename": "./layers/Trinket/1x/Diamond.png",
+                "rarityRating": 90
+            },
+            {
+                "id": 7,
+                "name": "Dog Tag",
+                "filename": "./layers/Trinket/1x/Dog Tag.png",
+                "rarityRating": 40
+            },
+            {
+                "id": 8,
+                "name": "Doge",
+                "filename": "./layers/Trinket/1x/Doge.png",
+                "rarityRating": 80
+            },
+            {
+                "id": 9,
+                "name": "Emerald",
+                "filename": "./layers/Trinket/1x/Emerald.png",
+                "rarityRating": 80
+            },
+            {
+                "id": 10,
+                "name": "Flower",
+                "filename": "./layers/Trinket/1x/Flower.png",
+                "rarityRating": 50
+            },
+            {
+                "id": 11,
+                "name": "Gold",
+                "filename": "./layers/Trinket/1x/Gold.png",
+                "rarityRating": 70
+            },
+            {
+                "id": 12,
+                "name": "Hand",
+                "filename": "./layers/Trinket/1x/Hand.png",
+                "rarityRating": 60
+            },
+            {
+                "id": 13,
+                "name": "I love smoke",
+                "filename": "./layers/Trinket/1x/I love smoke.png",
+                "rarityRating": 60
+            },
+            {
+                "id": 14,
+                "name": "Ice",
+                "filename": "./layers/Trinket/1x/Ice.png",
+                "rarityRating": 60
+            },
+            {
+                "id": 15,
+                "name": "Key",
+                "filename": "./layers/Trinket/1x/Key.png",
+                "rarityRating": 60
+            },
+            {
+                "id": 16,
+                "name": "Licorice",
+                "filename": "./layers/Trinket/1x/Licorice.png",
+                "rarityRating": 60
+            },
+            {
+                "id": 17,
+                "name": "Mushroom",
+                "filename": "./layers/Trinket/1x/Mushroom.png",
+                "rarityRating": 40
+            },
+            {
+                "id": 18,
+                "name": "Over Whale Ming",
+                "filename": "./layers/Trinket/1x/Over Whale Ming.png",
+                "rarityRating": 50
+            },
+            {
+                "id": 19,
+                "name": "Rocket",
+                "filename": "./layers/Trinket/1x/Rocket.png",
+                "rarityRating": 50
+            },
+            {
+                "id": 20,
+                "name": "Rope",
+                "filename": "./layers/Trinket/1x/Rope.png",
+                "rarityRating": 30
+            },
+            {
+                "id": 21,
+                "name": "Ruby",
+                "filename": "./layers/Trinket/1x/Ruby.png",
+                "rarityRating": 93
+            },
+            {
+                "id": 22,
+                "name": "Shoe Lace",
+                "filename": "./layers/Trinket/1x/Shoe Lace.png",
+                "rarityRating": 50
+            },
+            {
+                "id": 23,
+                "name": "Skull",
+                "filename": "./layers/Trinket/1x/Skull.png",
+                "rarityRating": 87
+            },
+            {
+                "id": 24,
+                "name": "Snake",
+                "filename": "./layers/Trinket/1x/Snake.png",
+                "rarityRating": 60
+            },
+            {
+                "id": 25,
+                "name": "Stars",
+                "filename": "./layers/Trinket/1x/Stars.png",
+                "rarityRating": 40
+            },
+            {
+                "id": 26,
+                "name": "Vine",
+                "filename": "./layers/Trinket/1x/Vine.png",
+                "rarityRating": 40
+            },
+            {
+                "id": 27,
+                "name": "Wood",
+                "filename": "./layers/Trinket/1x/Wood.png",
+                "rarityRating": 40
             }
         ]
     }
